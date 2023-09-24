@@ -1,14 +1,8 @@
-# tetris
+# shell_ed
 
-Terminal-bases Tetris video game
+Zephyr shell with added command for use very basic ed text editor clone
 
 ## Build
-
-Run 
-```bash
-make
-```
-for build and run the game
 
 ## Usage
 

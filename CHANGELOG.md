@@ -5,15 +5,10 @@ The project history is here!
 ## [Unreleased]
 
 **Reason for change:**
-There aren't...
-
-## [0.0.1] - 2023-09-23
-
-**Reason for change:**
-Main logic
+Project skeleton
 
 **Added:**
-- Colors
+- Project structure
 
 ## [0.0.0] - year-month-day
 
